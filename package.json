@@ -11,7 +11,7 @@
     "@gridsome/source-filesystem": "^0.5.0",
     "@gridsome/transformer-remark": "^0.3.2",
     "gridsome": "^0.6.0",
-    "sharp": "^0.23.0",
+    "sharp": "^0.30.5",
     "vue-disqus": "^3.0.5"
   }
 }
